@@ -158,7 +158,7 @@ function getItems(fruitList,favouriteFruit,...args){
 }
 console.log(getItems(["apple","banana"],"pear","orange"))
 
-Question ===> 11 [Object Referencing]
+// Question ===> 11 [Object Referencing]
 let c = {greeting:'hey!!'}
 let d;
 
